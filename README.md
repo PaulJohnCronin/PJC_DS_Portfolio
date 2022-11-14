@@ -1,20 +1,20 @@
 # PJC_DS_Portfolio
 
-# Australian Energy Market Operator (AEMO)
+## Australian Energy Market Operator (AEMO)
 
-# Data Visualization and Communication
+## Data Visualization and Communication
 
-# Database Systems
+## Database Systems
 
-# Big Data Management
+## Big Data Management
 
-# Neural Networks and Deep Learning
+## Neural Networks and Deep Learning
 
-# Regression Analysis for Data Scientists
+## Regression Analysis for Data Scientists
 
-# Data Mining and Machine Learnign
+## Data Mining and Machine Learnign
 
-# Statistical Inference
+## Statistical Inference
 
-# Bayesian Ingerence
+## Bayesian Ingerence
 
