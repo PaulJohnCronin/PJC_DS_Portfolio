@@ -1,8 +1,10 @@
-# PJC_DS_Portfolio
+# Paul's Data Science Portfolio
 
 ## Australian Energy Market Operator (AEMO)
 
-## Data Visualization and Communication
+## NSW Fire and Rescue Services
+
+## Data Visualization (Tableau)
 
 ## Database Systems
 
@@ -12,9 +14,9 @@
 
 ## Regression Analysis for Data Scientists
 
-## Data Mining and Machine Learnign
+## Data Mining and Machine Learning
 
 ## Statistical Inference
 
-## Bayesian Ingerence
+## Bayesian Inference
 
