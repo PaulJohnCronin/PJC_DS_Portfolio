@@ -4,7 +4,7 @@
 
 This work was the CAPSTONE project for my Master's degree in DataScience.  It worked with the Australian Energy Market Operator (AEMO), to be able to predict the different Australian states' energy demands at different future moments.  While this was a team project, each individual member was assigned different duties - my duties included the linear model, the generalized linear model and the GAM.  It used "roll forward analysis", where all the previous data is used to train various models to make predictions about future energy needs.
 
-The full team project can be found [here] on GitHub (https://github.com/the-rahul-kumar/UNSW-Group-C-Project), the project report [here]() and the project video [here](https://drive.google.com/file/d/17lH55OcZgZFSQASOmtW-DFPQAxeGVmHM/view?usp=share_link). 
+The full team [GitHub project](https://github.com/the-rahul-kumar/UNSW-Group-C-Project), the [project report] (https://github.com/PaulJohnCronin/PJC_DS_Portfolio/blob/main/Group_C_Report_Final%20(1).pdf) and the [project video](https://drive.google.com/file/d/17lH55OcZgZFSQASOmtW-DFPQAxeGVmHM/view?usp=share_link). 
 
 ## NSW Fire and Rescue Services
 
