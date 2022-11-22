@@ -35,7 +35,7 @@ Data science can require exceptional written communication skills, as data scien
 
 ### [Machine learning paper: Tree and Ensemble Learning](https://github.com/PaulJohnCronin/PJC_DS_Portfolio/blob/main/Tree%20and%20Ensemble%20Learning.pdf)
 ### [Machine learning paper: Linear Regression](https://github.com/PaulJohnCronin/PJC_DS_Portfolio/blob/main/Data%20Processing%20and%20Linear%20Regression.pdf)
-### [A privacy impact assessment of the original Gmail,using an ethical framework analysis](https://github.com/PaulJohnCronin/PJC_DS_Portfolio/blob/main/A%20privacy%20impact%20assessment%20of%20the%20original%20Gmail%2C%20using%20an%20ethical%20framework%20analysis.pdf) 
+### [Ethics paper: A privacy impact assessment of the original Gmail,using an ethical framework analysis](https://github.com/PaulJohnCronin/PJC_DS_Portfolio/blob/main/A%20privacy%20impact%20assessment%20of%20the%20original%20Gmail%2C%20using%20an%20ethical%20framework%20analysis.pdf) 
 
 ## Data visualization skills
 
