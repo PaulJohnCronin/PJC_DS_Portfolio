@@ -33,7 +33,8 @@ Data science deals heavily with numbers, including algorithms, statistical data 
 
 Data science can require exceptional written communication skills, as data scientists may often provide written accounts of the projects they work on. Furthermore, data scientists can use written communication to effectively break down the details of the processes they use to complete a project.
 
-### [A privacy impact assessment of the original Gmail,using an ethical framework analysis]() 
+### [A privacy impact assessment of the original Gmail,using an ethical framework analysis](https://github.com/PaulJohnCronin/PJC_DS_Portfolio/blob/main/A%20privacy%20impact%20assessment%20of%20the%20original%20Gmail%2C%20using%20an%20ethical%20framework%20analysis.pdf) 
+
 ## Data visualization skills
 
 Data visualization skills includes utilizing software and analytical skills to create a graphic record of data that is processed and organized. For instance, a data scientist for a large sales corporation might utilize graphs or charts to illustrate the numerical and statistical data regarding the company's sales, revenues, assets or debts.
