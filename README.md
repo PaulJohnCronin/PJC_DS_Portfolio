@@ -1,5 +1,6 @@
 # Paul's Data Science Portfolio
-![](https://github.com/PaulJohnCronin/PJC_DS_Portfolio/blob/main/images/IMG-1446.JPG | width = 100)
+
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/PaulJohnCronin/PJC_DS_Portfolio/blob/main/images/IMG-1446.JPG" width="200" height="400" />
 
 # Classification
 # Regression
