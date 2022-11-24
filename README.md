@@ -1,6 +1,12 @@
 # Paul's Data Science Portfolio
 ![](https://github.com/PaulJohnCronin/PJC_DS_Portfolio/blob/main/images/IMG-1446.JPG)
 
+# Classification
+# Regression
+# Clustering
+# Deep learning, Natural Language Processing
+
+
 ## Real world experience
 
 ### [Australian Energy Market Operator (AEMO)](https://github.com/the-rahul-kumar/UNSW-Group-C-Project/tree/main/src/Paul)
