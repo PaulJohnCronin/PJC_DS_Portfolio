@@ -1,5 +1,6 @@
 # Paul's Data Science Portfolio
-<a href="url"><img src="[http://url.to/image.png](https://github.com/PaulJohnCronin/PJC_DS_Portfolio/blob/main/images/IMG-1446.JPG)" align="left" height="48" width="48" ></a>
+
+<a href="url"><img src="http://github.com/PaulJohnCronin/PJC_DS_Portfolio/blob/main/images/IMG-1446.JPG" align="left" height="48" width="48" ></a>
 
 
 # Classification
