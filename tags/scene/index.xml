@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Paul John Cronin</title>
+    <link>https://gohugo-theme-ananke.pages.dev/tags/scene/</link>
+    <description>Recent content in scene on Paul John Cronin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Apr 2022 11:14:48 -0400</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Database systems</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/database_systems/</link>
+      <pubDate>Tue, 12 Apr 2022 11:14:48 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/database_systems/</guid>
+      <description>Database systems are more than just a working knowledge of SQL, but include Hadoop, MapReduce, MRJob, Hive and Spark.
+Technical skills are among the hard skills that employers can require when hiring a data scientist. Statistical data, platforms for visualising data, processing software and open-source and closed source programs can be common technical skills that a data scientist may possess.
+SQL (Database Systems) Hadoop and MapReduce MRJob and Hive Spark </description>
+    </item>
+    
+    <item>
+      <title>Data visualisation &amp; technical communication</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/data_visualisation_technical_communication/</link>
+      <pubDate>Sat, 09 Apr 2022 10:58:08 -1000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/data_visualisation_technical_communication/</guid>
+      <description>Data visualisation &amp;amp; technical communication is more than just python graphs - it requires communicating technical ideas clearly, effectively. My excellent data visualisation include Tableau, as well as scientific papers and patents.
+My data visualisation skills Data visualisation skills includes utilising software and analytical skills to create a graphic record of data that is processed and organised. For instance, a data scientist for a large sales corporation might utilise graphs or charts to illustrate the numerical and statistical data regarding the company&amp;rsquo;s sales, revenues, assets or debts.</description>
+    </item>
+    
+  </channel>
+</rss>
