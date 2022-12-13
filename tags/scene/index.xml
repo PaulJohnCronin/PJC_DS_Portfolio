@@ -6,7 +6,17 @@
     <description>Recent content in scene on Paul John Cronin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Apr 2022 11:14:48 -0400</lastBuildDate><atom:link href="https://pauljohncronin.github.io/PJC_DS_Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Dec 2022 10:58:08 -1000</lastBuildDate><atom:link href="https://pauljohncronin.github.io/PJC_DS_Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data visualisation &amp; technical communication</title>
+      <link>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/data_visualisation_technical_communication/</link>
+      <pubDate>Sun, 04 Dec 2022 10:58:08 -1000</pubDate>
+      
+      <guid>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/data_visualisation_technical_communication/</guid>
+      <description>Data visualisation &amp;amp; technical communication is more than just python graphs - it requires communicating technical ideas clearly, effectively. My excellent data visualisation include Tableau, as well as scientific papers and patents.
+My data visualisation skills Data visualisation skills includes utilising software and analytical skills to create a graphic record of data that is processed and organised. For instance, a data scientist for a large sales corporation might utilise graphs or charts to illustrate the numerical and statistical data regarding the company&amp;rsquo;s sales, revenues, assets or debts.</description>
+    </item>
+    
     <item>
       <title>Database systems</title>
       <link>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/database_systems/</link>
@@ -16,16 +26,6 @@
       <description>Database systems are more than just a working knowledge of SQL, but include Hadoop, MapReduce, MRJob, Hive and Spark.
 Technical skills are among the hard skills that employers can require when hiring a data scientist. Statistical data, platforms for visualising data, processing software and open-source and closed source programs can be common technical skills that a data scientist may possess.
 SQL (Database Systems) Hadoop and MapReduce MRJob and Hive Spark </description>
-    </item>
-    
-    <item>
-      <title>Data visualisation &amp; technical communication</title>
-      <link>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/data_visualisation_technical_communication/</link>
-      <pubDate>Sat, 09 Apr 2022 10:58:08 -1000</pubDate>
-      
-      <guid>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/data_visualisation_technical_communication/</guid>
-      <description>Data visualisation &amp;amp; technical communication is more than just python graphs - it requires communicating technical ideas clearly, effectively. My excellent data visualisation include Tableau, as well as scientific papers and patents.
-My data visualisation skills Data visualisation skills includes utilising software and analytical skills to create a graphic record of data that is processed and organised. For instance, a data scientist for a large sales corporation might utilise graphs or charts to illustrate the numerical and statistical data regarding the company&amp;rsquo;s sales, revenues, assets or debts.</description>
     </item>
     
   </channel>
