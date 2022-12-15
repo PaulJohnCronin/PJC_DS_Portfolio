@@ -23,8 +23,10 @@ Regression projects Australian Energy Market Operator (AEMO) This work was the C
       <pubDate>Sun, 04 Dec 2022 10:58:08 -1000</pubDate>
       
       <guid>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/data_visualisation_technical_communication/</guid>
-      <description>Data visualisation &amp;amp; technical communication is more than just python graphs - it requires communicating technical ideas clearly, effectively. My excellent data visualisation include Tableau, as well as scientific papers and patents.
-My data visualisation skills Data visualisation skills includes utilising software and analytical skills to create a graphic record of data that is processed and organised. For instance, a data scientist for a large sales corporation might utilise graphs or charts to illustrate the numerical and statistical data regarding the company&amp;rsquo;s sales, revenues, assets or debts.</description>
+      <description>Data visualisation skills includes utilising software and analytical skills to create a graphic record of data that is processed and organised.
+Data visualisation &amp;amp; technical communication is more than just python graphs - it requires communicating technical ideas clearly, effectively. My data visualisation experience includes Tableau, as well as many scientific papers and patents.
+Tableau (Data Visualization) Infographics Please review this paper in regard to communication infographics.
+An infographic detailing diamond size importance.</description>
     </item>
     
     <item>
@@ -33,9 +35,8 @@ My data visualisation skills Data visualisation skills includes utilising softwa
       <pubDate>Sat, 03 Dec 2022 11:13:32 -0400</pubDate>
       
       <guid>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/neural_networks_deep_learning/</guid>
-      <description>Tree and Ensemble Learning Assessment 3 This paper examines the classification of abalone age by specific physical measurements, as well as the categorical variable of sex, into four different age classes. Decision trees with pre-pruning and post-pruning, ensemble methods such as bagging and pasting, as well as neural network models were employed to examine this question.
-A GridSearchCV was used to find the optimal neural network hyperparameters.
-The full paper can be found here and the JupyterLab notebook can be found here.</description>
+      <description>Tree and Ensemble Learning Classification via regression trees and neural networking This paper examines the classification of abalone age by specific physical measurements, as well as the categorical variable of sex, into four different age classes. Decision trees with pre-pruning and post-pruning, ensemble methods such as bagging and pasting, as well as neural network models were employed to examine this question.
+A GridSearchCV was used to find the optimal neural network hyperparameters.</description>
     </item>
     
     <item>
@@ -65,8 +66,8 @@ SQL (Database Systems) Hadoop and MapReduce MRJob and Hive Spark </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pauljohncronin.github.io/PJC_DS_Portfolio/about/</guid>
-      <description> Hi! My name is Paul John Cronin, and I&amp;#39;m a Data Scientist. While I&amp;rsquo;ve only recently graduated a Masters in Data Science from UNSW, I have had a long career working with data. I also have a PhD in Physics from the University of Sydney, as well as bachelor degrees in Engineering, Mathematics &amp;amp; Science.
-Education Testamur Transcript Description Masters of Data Science, awarded with Excellence (UNSW) PhD in Physics (USYD) Bachelor of Engineering, awarded with 1st Class Honors, and the University Medal (USYD) Bachelor of Science (USYD) </description>
+      <description>Hi! My name is Paul John Cronin, and I&amp;#39;m a Data Scientist. While I&amp;rsquo;ve only recently graduated a Masters in Data Science from UNSW, I have had a long career working with data. I also have a PhD in Physics from the University of Sydney, as well as bachelor degrees in Engineering, Mathematics &amp;amp; Science.
+Education Testamur Transcript Description Masters of Data Science, awarded with Excellence (UNSW) PhD in Physics (USYD) Bachelor of Engineering, awarded with 1st Class Honors, and the University Medal (USYD) Bachelor of Science (USYD) Career I have had the good fortune to work for the following companies:</description>
     </item>
     
     <item>
