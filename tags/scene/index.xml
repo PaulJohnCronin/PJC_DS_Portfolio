@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>scene on Paul John Cronin</title>
-    <link>/tags/scene/</link>
+    <link>https://pauljohncronin.github.io/PJC_DS_Portfolio/tags/scene/</link>
     <description>Recent content in scene on Paul John Cronin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Dec 2022 10:58:08 -1000</lastBuildDate><atom:link href="/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Dec 2022 10:58:08 -1000</lastBuildDate><atom:link href="https://pauljohncronin.github.io/PJC_DS_Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data visualisation &amp; technical communication</title>
-      <link>/post/data_visualisation_technical_communication/</link>
+      <link>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/data_visualisation_technical_communication/</link>
       <pubDate>Sun, 04 Dec 2022 10:58:08 -1000</pubDate>
       
-      <guid>/post/data_visualisation_technical_communication/</guid>
+      <guid>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/data_visualisation_technical_communication/</guid>
       <description>Data visualisation skills includes utilising software and analytical skills to create a graphic record of data that is processed and organised.
 Data visualisation &amp;amp; technical communication is more than just python graphs - it requires communicating technical ideas clearly, effectively. My data visualisation experience includes Tableau, as well as many scientific papers and patents.
 Tableau (Data Visualization) This tableau data exploration was to investigate the claimed link between COVID vaccinations and death.</description>
@@ -20,10 +20,10 @@ Tableau (Data Visualization) This tableau data exploration was to investigate th
     
     <item>
       <title>Database systems</title>
-      <link>/post/database_systems/</link>
+      <link>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/database_systems/</link>
       <pubDate>Tue, 12 Apr 2022 11:14:48 -0400</pubDate>
       
-      <guid>/post/database_systems/</guid>
+      <guid>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/database_systems/</guid>
       <description>Database systems are more than just a working knowledge of SQL, but include Hadoop, MapReduce, MRJob, Hive and Spark.
 Technical skills are among the hard skills that employers can require when hiring a data scientist. Statistical data, platforms for visualising data, processing software and open-source and closed source programs can be common technical skills that a data scientist may possess.
 SQL (Database Systems) Hadoop and MapReduce MRJob and Hive Spark </description>
