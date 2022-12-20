@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Areas of proficiency on Paul John Cronin</title>
-    <link>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/</link>
+    <link>/post/</link>
     <description>Recent content in Areas of proficiency on Paul John Cronin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://pauljohncronin.github.io/PJC_DS_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data mining &amp; machine learning</title>
-      <link>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/data_mining_machine_learning/</link>
+      <link>/post/data_mining_machine_learning/</link>
       <pubDate>Mon, 05 Dec 2022 11:00:59 -0400</pubDate>
       
-      <guid>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/data_mining_machine_learning/</guid>
+      <guid>/post/data_mining_machine_learning/</guid>
       <description>Data mining and machine learning skills include classification, clustering, regression and predictive analytics.
 Regression projects Australian Energy Market Operator (AEMO) This work was the CAPSTONE project for my Master&amp;rsquo;s degree in DataScience at UNSW. It worked with the Australian Energy Market Operator (AEMO), to be able to predict the different Australian states&amp;rsquo; energy demands at different future moments. While this was a team project, each individual member was assigned different duties; my duties included the linear model (LM) as well as the generalized linear model (GLM).</description>
     </item>
     
     <item>
       <title>Data visualisation &amp; technical communication</title>
-      <link>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/data_visualisation_technical_communication/</link>
+      <link>/post/data_visualisation_technical_communication/</link>
       <pubDate>Sun, 04 Dec 2022 10:58:08 -1000</pubDate>
       
-      <guid>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/data_visualisation_technical_communication/</guid>
+      <guid>/post/data_visualisation_technical_communication/</guid>
       <description>Data visualisation skills includes utilising software and analytical skills to create a graphic record of data that is processed and organised.
 Data visualisation &amp;amp; technical communication is more than just python graphs - it requires communicating technical ideas clearly, effectively. My data visualisation experience includes Tableau, as well as many scientific papers and patents.
 Tableau (Data Visualization) This tableau data exploration was to investigate the claimed link between COVID vaccinations and death.</description>
@@ -30,30 +30,31 @@ Tableau (Data Visualization) This tableau data exploration was to investigate th
     
     <item>
       <title>Neural networks &amp; deep learning</title>
-      <link>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/neural_networks_deep_learning/</link>
+      <link>/post/neural_networks_deep_learning/</link>
       <pubDate>Sat, 03 Dec 2022 11:13:32 -0400</pubDate>
       
-      <guid>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/neural_networks_deep_learning/</guid>
+      <guid>/post/neural_networks_deep_learning/</guid>
       <description>Tree and Ensemble Learning Classification via regression trees and neural networking This paper examines the classification of abalone age by specific physical measurements, as well as the categorical variable of sex, into four different age classes. Decision trees with pre-pruning and post-pruning, ensemble methods such as bagging and pasting, as well as neural network models were employed to examine this question.
 A GridSearchCV was used to find the optimal neural network hyperparameters.</description>
     </item>
     
     <item>
       <title>Statistics</title>
-      <link>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/statistics/</link>
+      <link>/post/statistics/</link>
       <pubDate>Wed, 13 Apr 2022 11:15:58 -0400</pubDate>
       
-      <guid>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/statistics/</guid>
-      <description>Mathematical skills Data science deals heavily with numbers, including algorithms, statistical data and mathematical formulas for quantifying and processing data. Because of this, data scientists should posses proficient mathematical skills, especially in applied mathematics. This can include algorithmic and logarithmic studies, statistical computations and calculus.
-Statistical Inference Bayesian Inference Regression Analysis for Data Scientists </description>
+      <guid>/post/statistics/</guid>
+      <description>Mathematical skills Data science deals heavily with numbers, including algorithms, statistical data and mathematical formulas for quantifying and processing data. This section discusses my statistical mathematical skills, especially in applied mathematics. This includes algorithmic and logarithmic studies, statistical computations and calculus.
+Monte Carlo modelling This paper explores various aspect of Monte Carlo algorithms on methylation data, including:
+plotting density functions, implementing an accept/reject algorithm, and computing theoretical and modeled acceptance rates.</description>
     </item>
     
     <item>
       <title>Database systems</title>
-      <link>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/database_systems/</link>
+      <link>/post/database_systems/</link>
       <pubDate>Tue, 12 Apr 2022 11:14:48 -0400</pubDate>
       
-      <guid>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/database_systems/</guid>
+      <guid>/post/database_systems/</guid>
       <description>Database systems are more than just a working knowledge of SQL, but include Hadoop, MapReduce, MRJob, Hive and Spark.
 Technical skills are among the hard skills that employers can require when hiring a data scientist. Statistical data, platforms for visualising data, processing software and open-source and closed source programs can be common technical skills that a data scientist may possess.
 SQL (Database Systems) Hadoop and MapReduce MRJob and Hive Spark </description>
