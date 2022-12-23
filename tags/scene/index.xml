@@ -26,7 +26,7 @@ Tableau (Data Visualization) This tableau data exploration was to investigate th
       <guid>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/database_systems/</guid>
       <description>Database systems are more than just a working knowledge of SQL, but include Hadoop, MapReduce, MRJob, Hive and Spark.
 Technical skills are among the hard skills that employers can require when hiring a data scientist. Statistical data, platforms for visualising data, processing software and open-source and closed source programs can be common technical skills that a data scientist may possess.
-SQL (Database Systems) Hadoop and MapReduce MRJob and Hive Spark </description>
+Relational Database Design This project was to design a relational database to keep track of bookings for a number of AirBNB locations, and produce a diagram of the tables and the connections between them.</description>
     </item>
     
   </channel>
