@@ -2,60 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/data_mining_machine_learning/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/</loc>
+    <lastmod>2023-05-01T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/post/discrete_optimization/</loc>
+    <lastmod>2023-05-01T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/post/coding/</loc>
     <lastmod>2022-12-05T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/blog/data_mining_machine_learning/</loc>
     <lastmod>2022-12-05T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/data_visualisation_technical_communication/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/post/data_mining_machine_learning/</loc>
+    <lastmod>2022-12-05T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/blog/discrete_optimization/</loc>
+    <lastmod>2022-12-05T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/blog/data_visualisation_technical_communication/</loc>
     <lastmod>2022-12-04T10:58:08-10:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/tags/scene/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/post/data_visualisation_technical_communication/</loc>
     <lastmod>2022-12-04T10:58:08-10:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/tags/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/scene/</loc>
     <lastmod>2022-12-04T10:58:08-10:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/neural_networks_deep_learning/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/tags/</loc>
+    <lastmod>2022-12-04T10:58:08-10:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/blog/neural_networks_deep_learning/</loc>
     <lastmod>2022-12-03T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/statistics/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/post/neural_networks_deep_learning/</loc>
+    <lastmod>2022-12-03T11:13:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/blog/statistics/</loc>
     <lastmod>2022-04-13T11:15:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/database_systems/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/post/statistics/</loc>
+    <lastmod>2022-04-13T11:15:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/blog/database_systems/</loc>
     <lastmod>2022-04-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/post/database_systems/</loc>
+    <lastmod>2022-04-12T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/blog/</loc>
+    <lastmod>2017-03-02T12:00:00-05:10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/about/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/categories/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/contact/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://gohugo-theme-ananke.pages.dev/blog/regressionalternative/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
