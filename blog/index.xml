@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Train Validate Test Blog on Paul John Cronin</title>
+    <link>https://gohugo-theme-ananke.pages.dev/blog/</link>
+    <description>Recent content in Train Validate Test Blog on Paul John Cronin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0510</lastBuildDate>
+    <atom:link href="https://gohugo-theme-ananke.pages.dev/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data mining &amp; machine learning</title>
+      <link>https://gohugo-theme-ananke.pages.dev/blog/data_mining_machine_learning/</link>
+      <pubDate>Mon, 05 Dec 2022 11:00:59 -0400</pubDate>
+      <guid>https://gohugo-theme-ananke.pages.dev/blog/data_mining_machine_learning/</guid>
+      <description>Data mining and machine learning skills include classification, clustering, regression and predictive analytics.&#xA;Regression projects Australian Energy Market Operator (AEMO) This work was the CAPSTONE project for my Master&amp;rsquo;s degree in DataScience at UNSW. It worked with the Australian Energy Market Operator (AEMO), to be able to predict the different Australian states&amp;rsquo; energy demands at different future moments. While this was a team project, each individual member was assigned different duties; my duties included the linear model (LM) as well as the generalized linear model (GLM).</description>
+    </item>
+    <item>
+      <title>Discrete Optimization</title>
+      <link>https://gohugo-theme-ananke.pages.dev/blog/discrete_optimization/</link>
+      <pubDate>Mon, 05 Dec 2022 11:00:59 -0400</pubDate>
+      <guid>https://gohugo-theme-ananke.pages.dev/blog/discrete_optimization/</guid>
+      <description>Data mining and machine learning skills include classification, clustering, regression and predictive analytics.&#xA;Regression projects Australian Energy Market Operator (AEMO) This work was the CAPSTONE project for my Master&amp;rsquo;s degree in DataScience at UNSW. It worked with the Australian Energy Market Operator (AEMO), to be able to predict the different Australian states&amp;rsquo; energy demands at different future moments. While this was a team project, each individual member was assigned different duties; my duties included the linear model (LM) as well as the generalized linear model (GLM).</description>
+    </item>
+    <item>
+      <title>Data visualisation &amp; technical communication</title>
+      <link>https://gohugo-theme-ananke.pages.dev/blog/data_visualisation_technical_communication/</link>
+      <pubDate>Sun, 04 Dec 2022 10:58:08 -1000</pubDate>
+      <guid>https://gohugo-theme-ananke.pages.dev/blog/data_visualisation_technical_communication/</guid>
+      <description>Data visualisation skills includes utilising software and analytical skills to create a graphic record of data that is processed and organised.&#xA;Data visualisation &amp;amp; technical communication is more than just python graphs - it requires communicating technical ideas clearly, effectively. My data visualisation experience includes Tableau, as well as many scientific papers and patents.&#xA;Tableau (Data Visualization) This tableau data exploration was to investigate the claimed link between COVID vaccinations and death.</description>
+    </item>
+    <item>
+      <title>Neural networks &amp; deep learning</title>
+      <link>https://gohugo-theme-ananke.pages.dev/blog/neural_networks_deep_learning/</link>
+      <pubDate>Sat, 03 Dec 2022 11:13:32 -0400</pubDate>
+      <guid>https://gohugo-theme-ananke.pages.dev/blog/neural_networks_deep_learning/</guid>
+      <description>Tree and Ensemble Learning Classification via regression trees and neural networking This paper examines the classification of abalone age by specific physical measurements, as well as the categorical variable of sex, into four different age classes. Decision trees with pre-pruning and post-pruning, ensemble methods such as bagging and pasting, as well as neural network models were employed to examine this question.&#xA;A GridSearchCV was used to find the optimal neural network hyperparameters.</description>
+    </item>
+    <item>
+      <title>Statistics</title>
+      <link>https://gohugo-theme-ananke.pages.dev/blog/statistics/</link>
+      <pubDate>Wed, 13 Apr 2022 11:15:58 -0400</pubDate>
+      <guid>https://gohugo-theme-ananke.pages.dev/blog/statistics/</guid>
+      <description>Mathematical skills Data science deals heavily with numbers, including algorithms, statistical data and mathematical formulas for quantifying and processing data. This section discusses my statistical mathematical skills, especially in applied mathematics. This includes algorithmic and logarithmic studies, statistical computations and calculus.&#xA;Monte Carlo modelling This paper explores various aspect of Monte Carlo algorithms on methylation data, including:&#xA;plotting density functions, implementing an accept/reject algorithm, and computing theoretical and modeled acceptance rates.</description>
+    </item>
+    <item>
+      <title>Database systems</title>
+      <link>https://gohugo-theme-ananke.pages.dev/blog/database_systems/</link>
+      <pubDate>Tue, 12 Apr 2022 11:14:48 -0400</pubDate>
+      <guid>https://gohugo-theme-ananke.pages.dev/blog/database_systems/</guid>
+      <description>Database systems are more than just a working knowledge of SQL, but include Hadoop, MapReduce, MRJob, Hive and Spark.&#xA;Technical skills are among the hard skills that employers can require when hiring a data scientist. Statistical data, platforms for visualising data, processing software and open-source and closed source programs can be common technical skills that a data scientist may possess.&#xA;Relational Database Design This project was to design a relational database to keep track of bookings for a number of AirBNB locations, and produce a diagram of the tables and the connections between them.</description>
+    </item>
+    <item>
+      <title>Don&#39;t use Regression.  Use this instead.</title>
+      <link>https://gohugo-theme-ananke.pages.dev/blog/regressionalternative/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gohugo-theme-ananke.pages.dev/blog/regressionalternative/</guid>
+      <description>Data mining and machine learning skills include classification, clustering, regression and predictive analytics.&#xA;Regression projects Australian Energy Market Operator (AEMO) This work was the CAPSTONE project for my Master&amp;rsquo;s degree in DataScience at UNSW. It worked with the Australian Energy Market Operator (AEMO), to be able to predict the different Australian states&amp;rsquo; energy demands at different future moments. While this was a team project, each individual member was assigned different duties; my duties included the linear model (LM) as well as the generalized linear model (GLM).</description>
+    </item>
+  </channel>
+</rss>
