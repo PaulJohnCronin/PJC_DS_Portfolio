@@ -12,28 +12,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/coding/</loc>
-    <lastmod>2022-12-05T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/blog/data_mining_machine_learning/</loc>
-    <lastmod>2022-12-05T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/data_mining_machine_learning/</loc>
     <lastmod>2022-12-05T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/blog/discrete_optimization/</loc>
-    <lastmod>2022-12-05T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/blog/data_visualisation_technical_communication/</loc>
-    <lastmod>2022-12-04T10:58:08-10:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -52,18 +32,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/blog/neural_networks_deep_learning/</loc>
-    <lastmod>2022-12-03T11:13:32-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/neural_networks_deep_learning/</loc>
     <lastmod>2022-12-03T11:13:32-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/blog/statistics/</loc>
-    <lastmod>2022-04-13T11:15:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -72,18 +42,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/blog/database_systems/</loc>
-    <lastmod>2022-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/database_systems/</loc>
     <lastmod>2022-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/blog/</loc>
-    <lastmod>2017-03-02T12:00:00-05:10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -101,10 +61,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://pauljohncronin.github.io/PJC_DS_Portfolio/blog/regressionalternative/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

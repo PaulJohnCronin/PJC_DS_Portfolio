@@ -39,7 +39,7 @@
 <meta itemprop="name" content="Discrete Optimization">
 <meta itemprop="description" content="Data mining &amp; machine learning"><meta itemprop="datePublished" content="2023-05-01T11:00:59-04:00" />
 <meta itemprop="dateModified" content="2023-05-01T11:00:59-04:00" />
-<meta itemprop="wordCount" content="200">
+<meta itemprop="wordCount" content="399">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Discrete Optimization"/>
 <meta name="twitter:description" content="Data mining &amp; machine learning"/>
 
@@ -83,12 +83,6 @@
           <li class="list f5 f4-ns fw4 dib pr3">
             <a class="hover-white no-underline white-90" href="https://pauljohncronin.github.io/PJC_DS_Portfolio/contact/" title="Contact page">
               Contact
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="https://pauljohncronin.github.io/PJC_DS_Portfolio/blog/" title="Train Validate Test Blog page">
-              Train Validate Test Blog
             </a>
           </li>
           
@@ -206,6 +200,27 @@
       
     </header>
     <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>Discrete optimisation is the set of powerful and versatile techniques primarily dealing with problems where the feasible solutions comprise a finite or countably infinite set.  These problems can be broadly classified into two categories: combinatorial &amp; integer optimisation. Combinatorial optimisation include the travelling salesman and the knapsack problems. Integer optimisation problems require finding the best integer-valued solution to an optimisation problem that may involve linear or nonlinear objective functions and constraints.</p>
+<p>There are a set of standard problems for discrete optimisation.  Let&rsquo;s examine my solutions to those standard problems:</p>
+<h2 id="knapsack-problem">Knapsack problem</h2>
+<p>Please find my full code for the <a href="https://github.com/PaulJohnCronin/DiscreteOptimization/blob/main/KnapSackProblem/handout.pdf">knapsack</a> problem <a href="https://github.com/PaulJohnCronin/DiscreteOptimization/tree/main/KnapSackProblem">here</a>.  I achieve 100% optimality for all problems.</p>
+<p>This problem explores concepts such greedy algorithmsm, dynamic programming, relaxation, branch and bound and different solution space search strategies (depth first, best first, least discrepancy).</p>
+<h2 id="graph-coloring">Graph Coloring</h2>
+<p>Please find my full code for the <a href="https://github.com/PaulJohnCronin/DiscreteOptimization/blob/main/GraphColoringProblem/handout.pdf">graph coloring</a> problem <a href="https://github.com/PaulJohnCronin/DiscreteOptimization/tree/main/GraphColoringProblem">here</a>.  I achieve 100% optimality for all problems.</p>
+<h2 id="traveling-salesman">Traveling Salesman</h2>
+<p>Please find my full code for the <a href="https://github.com/PaulJohnCronin/DiscreteOptimization/blob/main/TravelingSalesmanProblem/handout.pdf">travelling salesman</a> problem <a href="https://github.com/PaulJohnCronin/DiscreteOptimization/tree/main/TravelingSalesmanProblem">here</a>.  I achieve 100% optimality for all problems.</p>
+<h2 id="facility-location">Facility Location</h2>
+<p>Please find my full code for the <a href="https://github.com/PaulJohnCronin/DiscreteOptimization/blob/main/FacilityLocationProblem/handout.pdf">facility location</a> problem <a href="https://github.com/PaulJohnCronin/DiscreteOptimization/tree/main/FacilityLocationProblem">here</a>.  I achieve 100% optimality for all problems.</p>
+<h2 id="vehicle-routing">Vehicle Routing</h2>
+<p>Please find my full code for the <a href="https://github.com/PaulJohnCronin/DiscreteOptimization/blob/main/FacilityLocationProblem/handout.pdf">constrained vehicle routing</a> problem <a href="https://github.com/PaulJohnCronin/DiscreteOptimization/tree/main/FacilityLocationProblem">here</a>.  I achieve 95% optimality for all problems.</p>
+<h1 id="more-on-optimization">More on optimization</h1>
+<p>Optimization problems come in a variety of flavors:</p>
+<ul>
+<li>Constraint programming, which uses tools like MiniZinc and OR-Tools,</li>
+<li>Mixed iteger programming, which has both real and integer variables,</li>
+<li>Linear programming, with real valued variables solving linear equation inequalities,</li>
+<li>Local search solvers (where a working solution can be improved), hand</li>
+<li>Boolean satisfiability problems (SAT problems).</li>
+</ul>
 <p>Further, these algorithms can be divided into exact &amp; heuristic methods. Exact algorithms guarantee that the global optimum will be found (assuming sufficient time &amp; computational resources.</p>
 <p>Examples of exact algorithms include branch-and-bound, dynamic programming, and integer linear programming methods.</p>
 <p>Heuristic algorithms, on the other hand, offer a more practical approach to solving large-scale discrete optimization problems, trading the guarantee of finding a globally optimal solution for reduced computational complexity and faster convergence. Heuristic methods are designed to explore the solution space intelligently, making use of problem-specific knowledge and general optimization principles to guide the search towards high-quality solutions.</p>

@@ -16,13 +16,6 @@
       <description>Discrete optimisation is the set of powerful and versatile techniques primarily dealing with problems where the feasible solutions comprise a finite or countably infinite set. These problems can be broadly classified into two categories: combinatorial &amp;amp; integer optimisation. Combinatorial optimisation include the travelling salesman and the knapsack problems. Integer optimisation problems require finding the best integer-valued solution to an optimisation problem that may involve linear or nonlinear objective functions and constraints.</description>
     </item>
     <item>
-      <title>Coding</title>
-      <link>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/coding/</link>
-      <pubDate>Mon, 05 Dec 2022 11:00:59 -0400</pubDate>
-      <guid>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/coding/</guid>
-      <description>My coding proficiency includes both Python, R and SQL, as well as their libraries.&#xA;Python libraries (Python&amp;rsquo;s key datastructures are dataframes) NumPy (core scientific computing in Python) Pandas (built on NumPy, easy-to-use data structures and analysis) Sklearn R dplyr Australian Energy Market Operator (AEMO) This work was the CAPSTONE project for my Master&amp;rsquo;s degree in DataScience at UNSW. It worked with the Australian Energy Market Operator (AEMO), to be able to predict the different Australian states&amp;rsquo; energy demands at different future moments.</description>
-    </item>
-    <item>
       <title>Data mining &amp; machine learning</title>
       <link>https://pauljohncronin.github.io/PJC_DS_Portfolio/post/data_mining_machine_learning/</link>
       <pubDate>Mon, 05 Dec 2022 11:00:59 -0400</pubDate>
